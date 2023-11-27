@@ -8,7 +8,7 @@
     <li><a href="#Screenshot">Screenshot</a></li>
     <li><a href="#Installation ">Installation</a></li>
     <li><a href="#Usage">Usage</a></li>
-    <li><a href="#Link to live website">Link to live website</a></li>
+    <li><a href="#Link">Link to live website</a></li>
     <li><a href="#Credits">Credits</a></li>
     <li><a href="#License">License</a></li>
   </ol>
@@ -51,7 +51,7 @@ Any changes you make to the HTML and CSS will be automatically updated on the li
 This project can be used for educational purposes to show new developers some of the ways to make their websites accessible to all users as well as the importance of keeping their code clear and concise for other developers to make additions to.
 
 
-## Link to live website
+## Link
 
 
 https://dominik-jad.github.io/code-refactor-challenge/
