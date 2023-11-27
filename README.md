@@ -8,7 +8,7 @@
     <li><a href="#Screenshot">Screenshot</a></li>
     <li><a href="#Installation ">Installation</a></li>
     <li><a href="#Usage">Usage</a></li>
-    <li><a href="#Link">Link to live website</a></li>
+    <li><a href="#Link">Link</a></li>
     <li><a href="#Credits">Credits</a></li>
     <li><a href="#License">License</a></li>
   </ol>
