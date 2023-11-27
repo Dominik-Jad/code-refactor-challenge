@@ -1,4 +1,4 @@
-# Code Refractor Challenge
+# Code Refactor Challenge
 
 
 <details>
@@ -54,7 +54,7 @@ This project can be used for educational purposes to show new developers some of
 ## Link to live website
 
 
-https://dominik-jad.github.io/code-refractor-challenge/
+https://dominik-jad.github.io/code-refactor-challenge/
 
 
 ## Credits
